@@ -11,7 +11,6 @@
 ### **Project Overview**
 ---
 
-
 This project aims to analyze the logistics network of a global supply chain management company, focusing on warehousing and last-mile delivery services. The company's Operations and Business Intelligence teams have recently pinpointed several key issues in the supply chain, including:
 
 - Supplier performance inconsistencies
@@ -41,7 +40,9 @@ This invloves exploring the data set to answer key questions such as;
 
 - Which product is the best-selling products
 - What is the Trend analysis for total revenue and average delivery time
-- What is the Average Delivery Time per region
+- What is the Average Delivery Time per category
+
+
 
 ### Data Analysis
 
@@ -72,6 +73,10 @@ The results of the analysis can be summarised as below;
 1. Product 72 is the Best performing product
 2. Initially, as average delivery time decreases, total revenue increases. This makes sense, as faster deliveries often lead to higher customer satisfaction and potentially more business. However, from 2022 onwards, there's a shift: as average delivery time increases, total revenue decreases.
 3. As the volume of transactions grows, the existing Customers may struggle to keep up with the demand, with the number of suppliers remaining unchanged.
+
+
+
+![bar_plot](https://github.com/user-attachments/assets/e0800736-8e54-474a-b9eb-8ded6a55dfa8)
 
 ### **Recommenadtion**
 
