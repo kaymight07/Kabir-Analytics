@@ -1,2 +1,1 @@
-# Kabir-Analytics
-Stock Management
+# Kabir Portfolio
