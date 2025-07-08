@@ -1,0 +1,2 @@
+# Kabir-Analytics
+Stock Management
