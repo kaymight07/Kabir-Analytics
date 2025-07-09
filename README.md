@@ -42,7 +42,7 @@ This invloves exploring the data set to answer key questions such as;
 - What is the Trend analysis for total revenue and average delivery time
 - What is the Average Delivery Time per category
 
-<img width="434" height="152" alt="Image" src="https://github.com/user-attachments/assets/d09867a3-e32d-4ce8-9d2a-15673511145f" />
+![bar_plot](https://github.com/kaymight07/Kabir-Portfolio/blob/main/product%20name.PNG)
 
 ### Data Analysis
 
