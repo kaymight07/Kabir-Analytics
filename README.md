@@ -77,6 +77,7 @@ The results of the analysis can be summarised as below;
 
 
 ![bar_plot](https://github.com/user-attachments/assets/e0800736-8e54-474a-b9eb-8ded6a55dfa8)
+![bar_plot](https://github.com/kaymight07/Kabir-Portfolio/blob/main/revenuebyyr.PNG)
 
 ### **Recommenadtion**
 
